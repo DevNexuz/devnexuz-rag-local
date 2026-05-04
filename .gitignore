@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Vector store persistido
+chroma_db/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+
+# Memoria local de colaboración — no se versiona
+CONTEXT_LOG.md
+
+# Conveniencia local — no se versiona
+activate.bat
+
+# Modelos descargados por sentence-transformers
+# (pesados, no van al repo)
+~/.cache/huggingface/
