@@ -1,5 +1,7 @@
 # DevNexuz Local RAG Knowledge Engine
 
+[![Tests](https://github.com/DevNexuz/devnexuz-rag-local/actions/workflows/tests.yml/badge.svg)](https://github.com/DevNexuz/devnexuz-rag-local/actions/workflows/tests.yml)
+
 > **Status:** 🚧 Work in Progress — MVP en construcción
 > **Última actualización:** 2026-05-04
 
