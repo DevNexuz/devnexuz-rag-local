@@ -6,7 +6,7 @@
 
 echo.
 echo ========================================
-echo  Local RAG Knowledge Engine — Setup
+echo  DevNexuz Local RAG Knowledge Engine — Setup
 echo ========================================
 echo.
 

@@ -1,4 +1,4 @@
-# Roadmap de Desarrollo — Local RAG Knowledge Engine
+# Roadmap de Desarrollo — DevNexuz Local RAG Knowledge Engine
 
 Ruta completa de 0 a producción. Estado actualizado: 2026-05-04.
 

@@ -1,7 +1,7 @@
 [project]
-name = "local-rag-engine"
+name = "devnexuz-rag-local"
 version = "0.1.0"
-description = "Local RAG pipeline: ingest, chunk, embed, retrieve, answer"
+description = "DevNexuz Local RAG Knowledge Engine built in Python — ingest, chunk, embed, retrieve, answer"
 requires-python = ">=3.11"
 
 dependencies = [

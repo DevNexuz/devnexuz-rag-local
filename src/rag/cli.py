@@ -18,7 +18,7 @@ from rich import box
 
 app = typer.Typer(
     name="rag",
-    help="Local RAG Knowledge Engine — ingesta documentos y responde preguntas.",
+    help="DevNexuz Local RAG Knowledge Engine — ingesta documentos y responde preguntas.",
     add_completion=False,
 )
 # force_terminal evita el renderer legacy de Windows que no soporta UTF-8

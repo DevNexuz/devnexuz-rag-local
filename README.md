@@ -1,9 +1,9 @@
-# Local RAG Knowledge Engine
+# DevNexuz Local RAG Knowledge Engine
 
 > **Status:** 🚧 Work in Progress — MVP en construcción
 > **Última actualización:** 2026-05-04
 
-Motor de Retrieval-Augmented Generation 100% local: ingesta documentos (PDF, Markdown, TXT, DOCX), los trocea, genera embeddings, los indexa en una base vectorial y responde preguntas con citas a la fuente. Sin API keys, sin enviar datos a la nube.
+Motor de Retrieval-Augmented Generation 100% local built in Python: ingesta documentos (PDF, Markdown, TXT, DOCX), los trocea, genera embeddings, los indexa en una base vectorial y responde preguntas con citas a la fuente. Sin API keys, sin enviar datos a la nube.
 
 ## ¿Por qué este proyecto?
 

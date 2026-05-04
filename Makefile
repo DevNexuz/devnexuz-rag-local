@@ -16,7 +16,7 @@ RUFF        := $(VENV)/bin/ruff
 # Mostrar ayuda por defecto
 help:
 	@echo ""
-	@echo "Local RAG Knowledge Engine — Comandos disponibles:"
+	@echo "DevNexuz Local RAG Knowledge Engine — Comandos disponibles:"
 	@echo ""
 	@echo "  make setup      Crear entorno virtual e instalar dependencias"
 	@echo "  make reinstall  Eliminar .venv y hacer setup desde cero"

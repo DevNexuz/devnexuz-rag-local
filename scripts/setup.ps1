@@ -6,7 +6,7 @@
 
 Write-Host ""
 Write-Host "========================================" -ForegroundColor Cyan
-Write-Host " Local RAG Knowledge Engine — Setup" -ForegroundColor Cyan
+Write-Host " DevNexuz Local RAG Knowledge Engine — Setup" -ForegroundColor Cyan
 Write-Host "========================================" -ForegroundColor Cyan
 Write-Host ""
 

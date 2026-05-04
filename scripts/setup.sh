@@ -18,7 +18,7 @@ NC='\033[0m' # sin color
 
 echo ""
 echo -e "${CYAN}========================================${NC}"
-echo -e "${CYAN} Local RAG Knowledge Engine — Setup${NC}"
+echo -e "${CYAN} DevNexuz Local RAG Knowledge Engine — Setup${NC}"
 echo -e "${CYAN}========================================${NC}"
 echo ""
 
